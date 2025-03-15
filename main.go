@@ -21,7 +21,6 @@ func empty() {
 	// intentionally trigger linter
 }
 
-
 type apiConfig struct {
 	DB *database.Queries
 }
