@@ -1,3 +1,4 @@
+# /badge.svg
 ![ci.yml](https://github.com/tophimos/bootdev-cicd-starter/actions/workflows/ci.yml/badge.svg)
 # learn-cicd-starter (Notely)
 
